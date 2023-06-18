@@ -3,3 +3,4 @@ staticfiles
 .coverage*
 mediafiles
 db.sqlite3
+.env
