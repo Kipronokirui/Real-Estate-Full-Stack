@@ -1,0 +1,2 @@
+2023-06-18 20:07:03,850 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 20:07:56,831 django.request WARNING  Not Found: /api/
