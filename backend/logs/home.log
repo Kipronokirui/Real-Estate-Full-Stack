@@ -1,2 +1,72 @@
 2023-06-18 20:07:03,850 django.utils.autoreload INFO     Watching for file changes with StatReloader
 2023-06-18 20:07:56,831 django.request WARNING  Not Found: /api/
+2023-06-18 20:43:47,978 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 20:43:48,946 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 20:44:50,051 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 20:44:50,891 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 20:46:41,943 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 20:46:43,036 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 20:48:03,439 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 20:48:04,303 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 20:48:29,351 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 20:48:30,351 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 20:49:51,713 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 20:49:52,685 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 20:51:02,383 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 20:51:03,295 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 20:51:35,771 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 20:51:36,728 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 20:52:57,279 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 20:52:58,297 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 20:54:24,933 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 20:54:25,839 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 20:54:29,694 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 20:54:30,550 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 20:54:57,839 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 20:54:58,867 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 20:55:39,840 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 20:55:40,853 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 20:56:26,194 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 20:56:27,387 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 20:56:55,692 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 20:56:56,899 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 20:57:42,329 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 20:57:43,351 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 20:58:53,158 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 20:58:54,289 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 20:59:23,629 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 20:59:24,581 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 21:00:41,623 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 21:00:42,602 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 21:01:30,067 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 21:01:30,997 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 21:03:11,505 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 21:03:12,431 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 21:03:46,128 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 21:03:46,957 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 21:04:44,986 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/models.py changed, reloading.
+2023-06-18 21:04:45,900 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 21:05:46,065 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/home/settings/base.py changed, reloading.
+2023-06-18 21:05:46,972 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 21:15:09,031 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/admin.py changed, reloading.
+2023-06-18 21:15:09,945 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 21:15:43,576 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/admin.py changed, reloading.
+2023-06-18 21:15:44,686 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 21:17:06,108 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/admin.py changed, reloading.
+2023-06-18 21:17:07,007 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 21:18:02,860 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/admin.py changed, reloading.
+2023-06-18 21:18:03,900 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 21:19:16,835 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/admin.py changed, reloading.
+2023-06-18 21:19:17,741 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 21:19:48,303 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/admin.py changed, reloading.
+2023-06-18 21:19:49,371 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 21:21:37,173 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/admin.py changed, reloading.
+2023-06-18 21:21:38,071 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 21:22:02,075 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/admin.py changed, reloading.
+2023-06-18 21:22:03,070 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 21:22:33,463 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/admin.py changed, reloading.
+2023-06-18 21:22:34,391 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 21:24:39,319 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/admin.py changed, reloading.
+2023-06-18 21:24:40,180 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-18 21:25:12,757 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/users/admin.py changed, reloading.
+2023-06-18 21:25:14,323 django.utils.autoreload INFO     Watching for file changes with StatReloader
