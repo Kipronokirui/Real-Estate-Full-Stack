@@ -429,3 +429,81 @@
 2023-06-19 19:36:36,212 django.utils.autoreload INFO     Watching for file changes with StatReloader
 2023-06-19 20:16:35,900 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/home/urls.py changed, reloading.
 2023-06-19 20:17:06,716 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-19 20:50:33,322 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-19 20:51:29,404 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/properties/models.py changed, reloading.
+2023-06-19 20:51:30,772 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-19 20:51:39,272 django.request WARNING  Not Found: /static/admin/css/nav_sidebar.css
+2023-06-19 20:51:39,275 django.request WARNING  Not Found: /static/admin/css/dark_mode.css
+2023-06-19 20:51:39,293 django.request WARNING  Not Found: /static/admin/css/login.css
+2023-06-19 20:51:39,314 django.request WARNING  Not Found: /static/admin/js/nav_sidebar.js
+2023-06-19 20:51:39,592 django.request WARNING  Not Found: /static/admin/css/fonts.css
+2023-06-19 20:51:39,605 django.request WARNING  Not Found: /static/admin/js/theme.js
+2023-06-19 20:51:40,023 django.request WARNING  Not Found: /favicon.ico
+2023-06-19 20:51:50,446 profiles.signals INFO     admin's profile created
+2023-06-19 20:51:50,741 django.request WARNING  Not Found: /static/admin/css/dark_mode.css
+2023-06-19 20:51:50,749 django.request WARNING  Not Found: /static/admin/js/theme.js
+2023-06-19 20:51:50,754 django.request WARNING  Not Found: /static/admin/css/nav_sidebar.css
+2023-06-19 20:51:50,764 django.request WARNING  Not Found: /static/admin/css/fonts.css
+2023-06-19 20:51:50,816 django.request WARNING  Not Found: /static/admin/js/nav_sidebar.js
+2023-06-19 20:51:50,865 django.request WARNING  Not Found: /static/admin/css/dashboard.css
+2023-06-19 20:51:50,907 django.request WARNING  Not Found: /static/admin/img/icon-changelink.svg
+2023-06-19 20:51:51,027 django.request WARNING  Not Found: /static/admin/img/icon-addlink.svg
+2023-06-19 20:51:56,931 django.request WARNING  Not Found: /static/admin/css/dark_mode.css
+2023-06-19 20:51:56,942 django.request WARNING  Not Found: /static/admin/js/theme.js
+2023-06-19 20:51:56,952 django.request WARNING  Not Found: /static/admin/css/nav_sidebar.css
+2023-06-19 20:51:56,954 django.request WARNING  Not Found: /static/admin/css/changelists.css
+2023-06-19 20:51:56,968 django.request WARNING  Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2023-06-19 20:51:57,030 django.request WARNING  Not Found: /static/admin/js/core.js
+2023-06-19 20:51:57,034 django.request WARNING  Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+2023-06-19 20:51:57,037 django.request WARNING  Not Found: /static/admin/js/actions.js
+2023-06-19 20:51:57,048 django.request WARNING  Not Found: /static/admin/css/fonts.css
+2023-06-19 20:51:57,049 django.request WARNING  Not Found: /static/admin/js/urlify.js
+2023-06-19 20:51:57,192 django.request WARNING  Not Found: /static/admin/js/prepopulate.js
+2023-06-19 20:51:57,243 django.request WARNING  Not Found: /static/admin/js/jquery.init.js
+2023-06-19 20:51:57,290 django.request WARNING  Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2023-06-19 20:51:57,300 django.request WARNING  Not Found: /static/admin/js/nav_sidebar.js
+2023-06-19 20:51:57,315 django.request WARNING  Not Found: /static/admin/js/filters.js
+2023-06-19 20:51:57,478 django.request WARNING  Not Found: /static/admin/img/icon-addlink.svg
+2023-06-19 20:51:57,509 django.request WARNING  Not Found: /static/admin/img/tooltag-add.svg
+2023-06-19 20:51:59,903 django.request WARNING  Not Found: /static/admin/css/dark_mode.css
+2023-06-19 20:51:59,927 django.request WARNING  Not Found: /static/admin/js/theme.js
+2023-06-19 20:51:59,962 django.request WARNING  Not Found: /static/admin/css/nav_sidebar.css
+2023-06-19 20:51:59,964 django.request WARNING  Not Found: /static/admin/css/forms.css
+2023-06-19 20:52:00,019 django.request WARNING  Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2023-06-19 20:52:00,051 django.request WARNING  Not Found: /static/admin/js/jquery.init.js
+2023-06-19 20:52:00,105 django.request WARNING  Not Found: /static/admin/css/fonts.css
+2023-06-19 20:52:00,157 django.request WARNING  Not Found: /static/admin/js/core.js
+2023-06-19 20:52:00,163 django.request WARNING  Not Found: /static/admin/js/actions.js
+2023-06-19 20:52:00,160 django.request WARNING  Not Found: /static/admin/js/urlify.js
+2023-06-19 20:52:00,165 django.request WARNING  Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+2023-06-19 20:52:00,232 django.request WARNING  Not Found: /static/admin/js/prepopulate.js
+2023-06-19 20:52:00,235 django.request WARNING  Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
+2023-06-19 20:52:00,271 django.request WARNING  Not Found: /static/admin/js/nav_sidebar.js
+2023-06-19 20:52:00,282 django.request WARNING  Not Found: /static/admin/img/icon-changelink.svg
+2023-06-19 20:52:00,288 django.request WARNING  Not Found: /static/admin/img/icon-addlink.svg
+2023-06-19 20:52:00,290 django.request WARNING  Not Found: /static/admin/js/prepopulate_init.js
+2023-06-19 20:52:00,326 django.request WARNING  Not Found: /static/admin/img/icon-viewlink.svg
+2023-06-19 20:52:00,356 django.request WARNING  Not Found: /static/admin/js/change_form.js
+2023-06-19 20:52:00,528 django.request WARNING  Not Found: /static/admin/img/icon-deletelink.svg
+2023-06-19 20:52:04,423 django.request WARNING  Not Found: /profile.jpg
+2023-06-19 20:52:11,071 django.request WARNING  Not Found: /static/admin/js/theme.js
+2023-06-19 20:52:11,076 django.request WARNING  Not Found: /static/admin/css/forms.css
+2023-06-19 20:52:11,074 django.request WARNING  Not Found: /static/admin/css/nav_sidebar.css
+2023-06-19 20:52:11,078 django.request WARNING  Not Found: /static/admin/js/vendor/jquery/jquery.min.js
+2023-06-19 20:52:11,080 django.request WARNING  Not Found: /static/admin/js/jquery.init.js
+2023-06-19 20:52:11,083 django.request WARNING  Not Found: /static/admin/js/core.js
+2023-06-19 20:52:11,134 django.request WARNING  Not Found: /static/admin/js/admin/RelatedObjectLookups.js
+2023-06-19 20:52:11,138 django.request WARNING  Not Found: /static/admin/js/actions.js
+2023-06-19 20:52:11,146 django.request WARNING  Not Found: /static/admin/js/urlify.js
+2023-06-19 20:53:23,705 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/profiles/models.py changed, reloading.
+2023-06-19 20:53:24,890 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-19 21:05:46,818 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/properties/models.py changed, reloading.
+2023-06-19 21:05:48,029 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-19 21:05:52,266 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/properties/models.py changed, reloading.
+2023-06-19 21:05:53,338 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-19 21:05:55,487 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/properties/models.py changed, reloading.
+2023-06-19 21:05:56,581 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-19 21:10:08,675 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/properties/admin.py changed, reloading.
+2023-06-19 21:10:09,959 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-19 21:10:33,499 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/properties/admin.py changed, reloading.
+2023-06-19 21:10:34,731 django.utils.autoreload INFO     Watching for file changes with StatReloader

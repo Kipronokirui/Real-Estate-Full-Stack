@@ -18,7 +18,7 @@ class Profile(TimeStampedUUIDModel):
     phone_number = PhoneNumberField(verbose_name=_("Phone Number"), max_length=30, default="+254123123123")
     about_me = models.TextField(verbose_name=_("About Me"), default="Say something about yourself")
     licence = models.CharField(verbose_name=_("Real Estate Licence"), max_length=20, blank=True, null=True)
-    profile_photo = models.ImageField(verbose_name=_("Profile photo"), default='/profile.jpg')
+    profile_photo = models.ImageField(verbose_name=_("Profile photo"), default='profile_default.png')
     gender = models.CharField(verbose_name=_("Gender"), choices=Gender.choices, default=Gender.OTHER, max_length=20)
     country = CountryField(verbose_name=_("Country"), default='KE', blank=False, null=False)
     city = models.CharField(verbose_name=_("City"), default="Nairobi", max_length=100, blank=False, null=False)

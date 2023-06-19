@@ -33,6 +33,8 @@ INSTALLED_APPS = [
     'common',
     'profiles',
     'ratings',
+    'properties',
+    'enquiries',
     
     'rest_framework',
     'django_filters',
