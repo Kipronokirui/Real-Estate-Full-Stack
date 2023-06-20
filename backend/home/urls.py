@@ -11,7 +11,7 @@ urlpatterns = [
     path("api/v1/properties/", include("properties.urls")),
     path("api/v1/ratings/", include("ratings.urls")),
     path("api/v1/enquiries/", include("enquiries.urls")),
-] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
+]
 
 admin.site.site_header = "Real Estate Admin"
 admin.site.site_title = "Real Estate Admin Portal"

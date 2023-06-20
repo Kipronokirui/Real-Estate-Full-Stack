@@ -901,3 +901,15 @@
 2023-06-19 22:28:16,383 django.utils.autoreload INFO     Watching for file changes with StatReloader
 2023-06-19 22:28:31,275 django.utils.autoreload INFO     /home/kiprono/Desktop/Django-Rest/real-estate/backend/home/settings/base.py changed, reloading.
 2023-06-19 22:28:32,531 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-19 23:33:00,542 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-06-19 23:33:04,376 django.request WARNING  Method Not Allowed: /api/v1/enquiries/
+2023-06-19 23:33:04,570 django.request WARNING  Not Found: /static/rest_framework/css/bootstrap.min.css
+2023-06-19 23:33:04,591 django.request WARNING  Not Found: /static/rest_framework/js/jquery-3.5.1.min.js
+2023-06-19 23:33:04,605 django.request WARNING  Not Found: /static/rest_framework/js/bootstrap.min.js
+2023-06-19 23:33:04,674 django.request WARNING  Not Found: /static/rest_framework/css/prettify.css
+2023-06-19 23:33:04,692 django.request WARNING  Not Found: /static/rest_framework/js/csrf.js
+2023-06-19 23:33:04,702 django.request WARNING  Not Found: /static/rest_framework/css/default.css
+2023-06-19 23:33:04,730 django.request WARNING  Not Found: /static/rest_framework/js/ajax-form.js
+2023-06-19 23:33:04,746 django.request WARNING  Not Found: /static/rest_framework/js/prettify-min.js
+2023-06-19 23:33:04,763 django.request WARNING  Not Found: /static/rest_framework/js/default.js
+2023-06-19 23:33:04,785 django.request WARNING  Not Found: /static/rest_framework/img/grid.png
