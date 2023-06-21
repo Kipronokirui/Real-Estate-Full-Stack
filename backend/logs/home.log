@@ -1128,3 +1128,14 @@
 2023-06-21 20:35:51,735 django.request WARNING  Not Found: /static/admin/js/vendor/xregexp/xregexp.min.js
 2023-06-21 20:35:51,738 django.request WARNING  Not Found: /static/admin/css/responsive.css
 2023-06-21 20:35:51,811 django.request WARNING  Not Found: /static/admin/css/responsive.css
+2023-06-21 23:01:56,757 django.request WARNING  Not Found: /static/rest_framework/css/prettify.css
+2023-06-21 23:01:56,837 django.request WARNING  Not Found: /static/rest_framework/js/jquery-3.5.1.min.js
+2023-06-21 23:01:56,765 django.request WARNING  Not Found: /static/rest_framework/css/default.css
+2023-06-21 23:01:56,796 django.request WARNING  Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+2023-06-21 23:01:56,933 django.request WARNING  Not Found: /static/rest_framework/js/ajax-form.js
+2023-06-21 23:01:57,081 django.request WARNING  Not Found: /static/rest_framework/css/bootstrap.min.css
+2023-06-21 23:01:57,173 django.request WARNING  Not Found: /static/rest_framework/js/csrf.js
+2023-06-21 23:01:57,225 django.request WARNING  Not Found: /static/rest_framework/js/bootstrap.min.js
+2023-06-21 23:01:57,229 django.request WARNING  Not Found: /static/rest_framework/js/prettify-min.js
+2023-06-21 23:01:57,258 django.request WARNING  Not Found: /static/rest_framework/js/default.js
+2023-06-21 23:01:57,556 django.request WARNING  Not Found: /favicon.ico
