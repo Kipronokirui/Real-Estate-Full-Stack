@@ -14,3 +14,7 @@ isort
 djoser
 djangorestframework-simplejwt
 PyJWT
+redis
+celery
+flower
+django-celery-email
