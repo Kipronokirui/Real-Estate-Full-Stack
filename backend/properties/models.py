@@ -79,25 +79,29 @@ class Property(TimeStampedUUIDModel):
     )
 
     cover_photo = models.ImageField(
-        verbose_name=_("Main Photo"), default="/house_sample.jpg", null=True, blank=True
+        verbose_name=_("Main Photo"),upload_to='media', default="media/house_sample.jpg", null=True, blank=True
     )
     photo1 = models.ImageField(
-        default="/interior_sample.jpg",
+        default="media/interior_sample.jpg",
+        upload_to='media',
         null=True,
         blank=True,
     )
     photo2 = models.ImageField(
-        default="/interior_sample.jpg",
+        default="media/interior_sample.jpg",
+        upload_to='media',
         null=True,
         blank=True,
     )
     photo3 = models.ImageField(
-        default="/interior_sample.jpg",
+        default="media/interior_sample.jpg",
+        upload_to='media',
         null=True,
         blank=True,
     )
     photo4 = models.ImageField(
-        default="/interior_sample.jpg",
+        default="media/interior_sample.jpg",
+        upload_to='media',
         null=True,
         blank=True,
     )

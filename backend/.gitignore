@@ -4,3 +4,4 @@ staticfiles
 mediafiles
 db.sqlite3
 .env
+media
