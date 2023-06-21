@@ -9,6 +9,6 @@ export const propertiesListReducer = (state = { properties: [] }, action) => {
         case PROPERTY_LIST_FAIL:
             return {loading:false, error:action.payload}
         default:
-            return state
+            return state 
     }
 }
