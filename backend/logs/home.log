@@ -1139,3 +1139,4 @@
 2023-06-21 23:01:57,229 django.request WARNING  Not Found: /static/rest_framework/js/prettify-min.js
 2023-06-21 23:01:57,258 django.request WARNING  Not Found: /static/rest_framework/js/default.js
 2023-06-21 23:01:57,556 django.request WARNING  Not Found: /favicon.ico
+2023-06-22 22:54:22,665 django.utils.autoreload INFO     Watching for file changes with StatReloader

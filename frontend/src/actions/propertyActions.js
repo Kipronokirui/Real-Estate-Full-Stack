@@ -19,3 +19,5 @@ export const listProperties = () => async (dispatch) => {
         })
     }
 }
+
+export default listProperties

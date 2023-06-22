@@ -1,7 +1,7 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 
-const Footer = () => {
+const AppFooter = () => {
 	return (
 		<footer>
 			<Container>
@@ -15,4 +15,4 @@ const Footer = () => {
 	);
 };
 
-export default Footer;
+export default AppFooter;
