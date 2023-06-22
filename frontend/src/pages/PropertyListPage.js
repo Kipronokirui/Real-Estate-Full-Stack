@@ -23,7 +23,7 @@ const PropertyListPage = () => {
           ) : error ? (
                   <Alert
                       type='error'
-                      message={error.message}
+                      message={error}
                       showIcon
                       className='alert-margin--top'
                   />
