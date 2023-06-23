@@ -17,10 +17,7 @@ function App() {
         <main className="py-3">
           <Routes>
             <Route path="/" element={<HomePage />} />
-            <Route
-							path="/properties"
-							element={<PropertiesPage />}
-            />
+            <Route path="/properties" element={<PropertiesPage />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
           <ToastContainer theme="dark" />
