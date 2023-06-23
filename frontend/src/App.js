@@ -7,6 +7,7 @@ import Header from "./components/Header";
 import HomePage from "./pages/HomePage";
 import NotFound from "./components/NotFound";
 import PropertiesPage from "./pages/PropertiesPage";
+import LoginPage from "./pages/LoginPage";
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
           <Routes>
             <Route path="/" element={<HomePage />} />
             <Route path="/properties" element={<PropertiesPage />} />
+            <Route path="/login" element={<LoginPage />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
           <ToastContainer theme="dark" />
